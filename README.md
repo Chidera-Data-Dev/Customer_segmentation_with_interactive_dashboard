@@ -142,4 +142,4 @@ The dashboard was built using Dash, Plotly, and Bootstrap components.
 
 The dashboard allows the segmentation results to be explored visually and provides a more accessible way to understand the customer groups.
 
-[View Dashboard](YOUR_DASHBOARD_LINK)
+[View Dashboard]((https://customer-segmentation-with-interactive.onrender.com/))
