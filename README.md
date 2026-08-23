@@ -30,7 +30,7 @@ Due to the size of the raw dataset, the original files are not included in this 
 
 Dataset:
 
-[Olist Brazilian E-Commerce Dataset](YOUR_DATASET_LINK)
+[Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
