@@ -32,6 +32,8 @@ Dataset:
 
 [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+From this dataset a sorted.csv file was created for the purpose of building the Dashboard.
+
 ---
 
 Data Pipeline
